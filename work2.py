@@ -5,4 +5,4 @@ print("Hello Thanh B")
 print("Hello Thanh A")
 
 #new code from Thanh A
-print("Hello Thanh A dep trai")
+print("Hello Thanh A dep trai. Rat vui duoc lam quen voi ban")
